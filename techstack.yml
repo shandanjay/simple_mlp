@@ -1,0 +1,30 @@
+repo_name: shandanjay/simple_mlp
+report_id: 85f3d2e37c096cb60ca1cb284dbb9f64
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:46:59+00:00'
+requested_by: DarianHarrison
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: Rust
+  description: A safe, concurrent, practical language
+  website_url: http://www.rust-lang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png
+  detection_source_url: https://github.com/shandanjay/simple_mlp
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/shandanjay/simple_mlp
+  detection_source: Repo Metadata
